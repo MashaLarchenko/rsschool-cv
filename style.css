@@ -111,7 +111,7 @@ span {
 
 .profile {
     position: relative;
-    min-height: 20vh;
+    min-height: 200px;
 }
 
 .circle {
@@ -129,7 +129,7 @@ span {
 
 .contact-info {
     position: absolute;
-    bottom: 2vh;
+    bottom: 30px;
     left: 34%;
     z-index: 11;
     width: 30%;
